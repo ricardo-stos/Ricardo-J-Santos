@@ -12,8 +12,7 @@
  
  👩🏻‍💻 Sou um, QA || Quality Analyst || Software Testing || Java || .<br>
  ⚡ Em Formação em Bacharelado Engenharia de Computação | Bacheralado em Tecnologia da Informação - ênfase em internet das coisas, Univesp - São Paulo SP <br>
- 
- 
+  
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
   <img  alt="Lari-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
@@ -30,7 +29,7 @@
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ricardojsantos}/count.svg" /></p> 
   <br>
 </div>
 
